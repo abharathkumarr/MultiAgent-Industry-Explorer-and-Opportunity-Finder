@@ -3,8 +3,6 @@
 
 This project implements a Multi-Agent system that conducts market research, analyzes AI/ML/GenAI trends, generates use cases, and collects relevant datasets for any given Company or Industry.
 
-Developed as part of the InstaResz Business Services Pvt. Ltd AI Assessment.
-
 ---
 
 ## 📋 Project Overview
