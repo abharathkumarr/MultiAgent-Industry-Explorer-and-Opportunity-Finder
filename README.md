@@ -122,13 +122,6 @@ To automate AI opportunity discovery by:
 
 ---
 
-## 📢 Notes
-
-- This project is built for academic/assignment purposes.
-- API keys must be kept private and should not be shared publicly.
-
----
-
 ## 🙌 Acknowledgements
 
 - McKinsey & Company
