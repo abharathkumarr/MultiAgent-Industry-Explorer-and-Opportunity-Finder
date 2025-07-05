@@ -5,7 +5,7 @@ This project implements a Multi-Agent system that conducts market research, anal
 
 ---
 
-## 📋 Project Overview
+## 📋 Project Overview 
 
 - **Research Agent**: Gathers company/industry details via Serper API and scraping.
 - **Use Case Generation Agent**: Creates 5 GenAI/AI/ML use cases based on industry trends (referencing McKinsey, Deloitte, Nexocode insights).
