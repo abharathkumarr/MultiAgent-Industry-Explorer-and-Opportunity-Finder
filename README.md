@@ -1,7 +1,7 @@
 
 # MultiAgent Industry Explorer and Opportunity Finder
 
-This project implements a Multi-Agent system that conducts market research, analyzes AI/ML/GenAI trends, generates use cases, and collects relevant datasets for any given Company or Industry.
+This project implements a Multi-Agent system that conducts market research, analyzes AI/ML/GenAI trends, generates use cases, and collects relevant datasets for any given Company or Industry. 
 
 ---
 
